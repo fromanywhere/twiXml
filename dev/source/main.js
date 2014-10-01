@@ -126,7 +126,7 @@ var twiXml = (function($) {
 			}
 		}
 	}
-})(jQuery)
+})(jQuery);
 
 jQuery.fn.twiXml = function(options){
 	this.each(function() {
